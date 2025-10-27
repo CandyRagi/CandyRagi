@@ -66,13 +66,6 @@ I'm a 3rd-year Computing Science student at **Simon Fraser University**, passion
 - 🏆 Competing in esports and analyzing game strategies
 - 🎨 Designing intuitive user interfaces and experiences
 
-## 🤝 Leadership & Community
-
-- **VAL Challengers (NECC)** — Spring 2024 playoffs competitor
-- **SFU Esports Club** — Peer Educator and active member
-- **FIC IT Squad** — Volunteer (Jan - Apr 2024)
-- **HelpAge International** — Volunteer Fundraiser (2021)
-
 ## 💡 Fun Facts
 
 - 🍕 Self-proclaimed food enthusiast (it's literally in my interests!)
