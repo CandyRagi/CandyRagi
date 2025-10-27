@@ -85,8 +85,3 @@ I'm always open to collaborating on interesting projects or discussing tech, esp
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=CandyRagi&color=blueviolet&style=for-the-badge)
-  
-  *"Building the future, one commit at a time"* 💻✨
-  
-</div>
