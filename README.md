@@ -1,3 +1,140 @@
-# CandyRagi
-# CandyRagi
-# CandyRagi
+# Hey there, I'm Ansh! 👋
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ansh--tiwari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-tiwari)
+  [![Email](https://img.shields.io/badge/Email-ata185%40sfu.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ata185@sfu.ca)
+  [![Location](https://img.shields.io/badge/Location-Burnaby%2C%20BC-00A36C?style=for-the-badge&logo=google-maps&logoColor=white)]()
+  
+</div>
+
+## 🎓 About Me
+
+I'm a 3rd-year Computing Science student at **Simon Fraser University**, passionate about building full-stack applications and exploring the intersections of technology, design, and user experience. Currently diving deep into software development, system programming, and creating meaningful digital experiences.
+
+- 🔭 Currently working on **FAM App** — a cross-platform music streaming application
+- 🌱 Learning more about **AI/ML integration**, **socket programming**, and **system architecture**
+- 💡 Interested in **UI/UX Design**, **Hackathons**, and **Esports Analytics**
+- 🎮 Competitive **VAL Challengers (NECC)** player and **SFU Esports Club** member
+- 🐧 Proud **Fedora KDE Plasma** user
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Specialties
+- **REST APIs** • **OOP** • **MVC Architecture** 
+- **Data Structures & Algorithms** • **Socket Programming** 
+- **CI/CD** • **System Programming**
+
+## 🚀 Featured Projects
+
+### 🎵 [FAM App](https://github.com/CandyRagi) 
+> *Cross-Platform Music Application | Apr 2025*
+
+A unified music streaming experience integrating Spotify and YouTube APIs with AI-powered recommendations and collaborative playlists.
+
+**Tech:** React Native, Spring Boot, MongoDB Atlas  
+**Features:** 2FA authentication, personalized dashboards, real-time chat, playlist management
+
+---
+
+### 🎬 [Rizzervit Website](https://github.com/CandyRagi)
+> *Movie Booking Platform | Oct - Dec 2024*
+
+Full-stack movie booking system with dynamic seat selection and location-based theater discovery.
+
+**Tech:** Spring Boot, PostgreSQL, JavaScript  
+**Role:** Scrum Master & Full Stack Developer  
+**Highlights:** Google Maps API integration, responsive UI, Agile team leadership
+
+---
+
+### 🎮 [Territory Control Game](https://github.com/CandyRagi)
+> *Multiplayer Strategy Game | Feb - Apr 2023*
+
+Real-time competitive JavaFX game with networked multiplayer functionality.
+
+**Tech:** JavaFX, Socket Programming  
+**Features:** Two-player synchronization, turn-based mechanics, multithreaded event handling
+
+---
+
+### 🐚 [Unix Shell Clone](https://github.com/CandyRagi)
+> *Systems Programming Project | Sept 2024*
+
+Custom Unix shell implementation with advanced process management and command execution.
+
+**Tech:** C, Linux  
+**Features:** I/O redirection, pipelines, background processes, system-level programming
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=CandyRagi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandyRagi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+  
+</div>
+
+## 🌟 What I'm Up To
+
+- 🔨 Building full-stack applications with modern frameworks
+- 📚 Deepening my understanding of system architecture and low-level programming
+- 🎯 Exploring AI/ML integration in real-world applications
+- 🏆 Competing in esports and analyzing game strategies
+- 🎨 Designing intuitive user interfaces and experiences
+
+## 🤝 Leadership & Community
+
+- **VAL Challengers (NECC)** — Spring 2024 playoffs competitor
+- **SFU Esports Club** — Peer Educator and active member
+- **FIC IT Squad** — Volunteer (Jan - Apr 2024)
+- **HelpAge International** — Volunteer Fundraiser (2021)
+
+## 💡 Fun Facts
+
+- 🍕 Self-proclaimed food enthusiast (it's literally in my interests!)
+- ⚽ Football fan
+- 🎯 Always up for a hackathon challenge
+- 🖥️ Linux power user (Fedora KDE Plasma)
+
+## 📫 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing tech, esports, or anything in between!
+
+- **Email:** [ata185@sfu.ca](mailto:ata185@sfu.ca)
+- **LinkedIn:** [ansh-tiwari](https://linkedin.com/in/ansh-tiwari)
+- **Location:** Burnaby, BC, Canada
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=CandyRagi&color=blueviolet&style=for-the-badge)
+  
+  *"Building the future, one commit at a time"* 💻✨
+  
+</div>
