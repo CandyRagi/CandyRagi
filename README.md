@@ -12,7 +12,7 @@
 
 I'm a 3rd-year Computing Science student at **Simon Fraser University**, passionate about building full-stack applications and exploring the intersections of technology, design, and user experience. Currently diving deep into software development, system programming, and creating meaningful digital experiences.
 
-- 🔭 Currently working on **FAM App** — a cross-platform music streaming application
+- 🔭 Currently working on **StudySage APP** — Group Project :(
 - 🌱 Learning more about **AI/ML integration**, **socket programming**, and **system architecture**
 - 💡 Interested in **UI/UX Design**, **Hackathons**, and **Esports Analytics**
 - 🎮 Competitive **VAL Challengers (NECC)** player and **SFU Esports Club** member
@@ -48,52 +48,11 @@ I'm a 3rd-year Computing Science student at **Simon Fraser University**, passion
 - **Data Structures & Algorithms** • **Socket Programming** 
 - **CI/CD** • **System Programming**
 
-## 🚀 Featured Projects
 
-### 🎵 [FAM App](https://github.com/CandyRagi) 
-> *Cross-Platform Music Application | Apr 2025*
-
-A unified music streaming experience integrating Spotify and YouTube APIs with AI-powered recommendations and collaborative playlists.
-
-**Tech:** React Native, Spring Boot, MongoDB Atlas  
-**Features:** 2FA authentication, personalized dashboards, real-time chat, playlist management
-
----
-
-### 🎬 [Rizzervit Website](https://github.com/CandyRagi)
-> *Movie Booking Platform | Oct - Dec 2024*
-
-Full-stack movie booking system with dynamic seat selection and location-based theater discovery.
-
-**Tech:** Spring Boot, PostgreSQL, JavaScript  
-**Role:** Scrum Master & Full Stack Developer  
-**Highlights:** Google Maps API integration, responsive UI, Agile team leadership
-
----
-
-### 🎮 [Territory Control Game](https://github.com/CandyRagi)
-> *Multiplayer Strategy Game | Feb - Apr 2023*
-
-Real-time competitive JavaFX game with networked multiplayer functionality.
-
-**Tech:** JavaFX, Socket Programming  
-**Features:** Two-player synchronization, turn-based mechanics, multithreaded event handling
-
----
-
-### 🐚 [Unix Shell Clone](https://github.com/CandyRagi)
-> *Systems Programming Project | Sept 2024*
-
-Custom Unix shell implementation with advanced process management and command execution.
-
-**Tech:** C, Linux  
-**Features:** I/O redirection, pipelines, background processes, system-level programming
-
-## 📊 GitHub Stats
+## 📊 Coding Stats
 
 <div align="center">
   
-  ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=CandyRagi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandyRagi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27)
   
