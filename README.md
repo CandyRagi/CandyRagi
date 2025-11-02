@@ -78,7 +78,7 @@ I'm a 3rd-year Computing Science student at **Simon Fraser University**, passion
 I'm always open to collaborating on interesting projects or discussing tech, esports, or anything in between!
 
 - **Email:** [ata185@sfu.ca](mailto:ata185@sfu.ca)
-- **LinkedIn:** [ansh-tiwari](https://linkedin.com/in/ansh-tiwari)
+- **LinkedIn:** [ansh-tiwari]()
 - **Location:** Burnaby, BC, Canada
 
 ---
