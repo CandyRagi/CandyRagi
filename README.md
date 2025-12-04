@@ -10,16 +10,16 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/ansh-tiwari">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ansh_Tiwari-blue?style=social&logo=linkedin" />
   </a>
+  &nbsp;
   <a href="mailto:ata185@sfu.ca">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.google.com/maps/place/Burnaby,+BC">
-    <img src="https://img.shields.io/badge/-Location-00A36C?style=for-the-badge&logo=google-maps&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Email-ata185@sfu.ca-red?style=social&logo=gmail" />
   </a>
 </div>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-Burnaby,_BC-green?style=social&logo=googlemaps" />
+</div>
   <br><br>
 
   <p align="center" width="600px">
