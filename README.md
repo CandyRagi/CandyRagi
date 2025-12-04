@@ -35,7 +35,7 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandyRagi&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=CandyRagi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph" />
 
   <br><br>
 
