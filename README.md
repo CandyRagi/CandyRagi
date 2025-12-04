@@ -30,12 +30,12 @@
   <h3>🛠️ Technical Arsenal</h3>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,js,react,nextjs,spring,nodejs,express,postgres,mongo,docker,git,linux&perline=16&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,js,react,react,spring,nodejs,express,postgres,mongo,docker,git,linux&perline=8&theme=dark" />
   </a>
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandyRagi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true&langs_count=6" height="140" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandyRagi&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="stats" />
 
   <br><br>
 
