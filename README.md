@@ -42,7 +42,7 @@
   <br><br>
 
   <p style="font-size: 12px; color: #777;">
-    🐧 <b>System:</b> Fedora KDE Plasma &nbsp;|&nbsp; 🔭 <b>Focus:</b> Sockets, CI/CD & MVC &nbsp;|&nbsp; ⚽ <b>Interest:</b> Football & Food
+    🐧 <b>System:</b> Proud Fedora KDE Plasma User (Fuck Windows) &nbsp;|&nbsp; 🔭 <b>Focus:</b> Android Apps and Embedded Systems &nbsp;|&nbsp; ⚽ <b>Interest:</b> Yapping & Food
   </p>
 
 </div>
