@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I am a 3rd-year Computing Science student passionate about **AI/ML integration**, **System Architecture**, and **UI/UX Design**. Currently building **StudySage** and competing in the **VAL Challengers (NECC)**.
+I am a 3rd-year Computing Science student passionate about **AI/ML integration**, **System Architecture**, and **UI/UX Design**. Currently building TapTheHuzz and Writing neural nets from scratch in C++ .
 
 📍 Based in Burnaby, BC
 
