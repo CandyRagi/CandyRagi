@@ -8,15 +8,14 @@
 
 ---
 
-## 👨‍💻 About Me
 
 I am a 3rd-year Computing Science student passionate about **AI/ML integration**, **System Architecture**, and **UI/UX Design**. Currently building TapTheHuzz and Writing neural nets from scratch in C++ .
 
-📍 Based in Burnaby, BC
+Based in Burnaby, BC
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ```
 Languages:       C • C++ • Java • Python • TypeScript • JavaScript
@@ -28,20 +27,20 @@ Tools:           Docker • Git • Linux
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
-- 🔭 Building Android Apps and Embedded Systems
-- 🌱 Exploring AI/ML integration in full-stack applications
-- 🎮 Competing in VAL Challengers (NECC)
-- 💡 Developing StudySage
+- Building Android Apps and Embedded Systems
+- Exploring AI/ML integration in full-stack applications
+- Competing in VAL Challengers (NECC)
+- Developing StudySage
 
 ---
 
-## 💭 Interests
+## Interests
 
 🐧 **System:** Proud Fedora KDE Plasma User  
-🔭 **Focus:** Android Apps and Embedded Systems  
-⚽ **Hobbies:** Yapping & Food
+**Focus:** Android Apps and Embedded Systems  
+**Hobbies:** Yapping & Food
 
 ---
 
